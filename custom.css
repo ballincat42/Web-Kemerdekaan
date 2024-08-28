@@ -1,5 +1,5 @@
 header{
-    background-image: url('/imgs/bg.svg');
+    background-image: url('imgs/bg.svg');
 }
 #heroText{
         background: linear-gradient(135deg, rgba(255,0,0,1) 28%, rgba(255,255,255,1) 100%);
